@@ -1,4 +1,3 @@
 <div align="center">
-  <h2>FLASH NEWS</h2>
   <img src="https://github.com/user-attachments/assets/87b26a18-3d42-4a6f-b4b0-3dd2d3621043" alt="Gemini_Generated_Image" width="400">
 </div>
