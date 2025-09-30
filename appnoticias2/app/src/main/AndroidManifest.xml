@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <!-- 🚀 Permiso para usar internet -->
+    <!-- Este es el permiso del internet para la verificacion de la conexion -->
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -14,15 +14,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.News_APP_API">
+
+        <!-- Estableciendo la actividad splash como la principal en vez de la main -->
         <activity
-            android:name="sv.edu.api.ui.main.MainActivity"
+            android:name="sv.edu.api.ui.splash.SplashActivity"
             android:exported="true">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+
+        <!-- y aqui la main se queda en espera-->
+        <activity
+            android:name="sv.edu.api.ui.main.MainActivity"
+            android:exported="true"/>
     </application>
+
 
 </manifest>
