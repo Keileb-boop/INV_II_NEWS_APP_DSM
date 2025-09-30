@@ -10,7 +10,8 @@
 - Waldo José Pérez Aguillón PA230265
 ********************************************************************************************************************
 Utilizando la técnologia de Retrofit para metodos http, creamos la app de noticias
-obteniendo datos de la API NEWS API, encargada de mostrar las noticias más recientes del mundo
+obteniendo datos de la API NEWS API, encargada de mostrar las noticias más recientes del mundo.
 
+"https://newsapi.org/"
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/652d6b7f-5be4-48d9-aa95-3f4651c4029c" />
