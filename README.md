@@ -8,7 +8,7 @@
 - Caleb Alejandro Peñate Deras PD230166
 - Camila Elizabeth Castillo Joya CJ220498
 - Waldo José Pérez Aguillón PA230265
-
+********************************************************************************************************************
 Utilizando la técnologia de Retrofit para metodos http, creamos la app de noticias
 obteniendo datos de la API NEWS API, encargada de mostrar las noticias más recientes del mundo
 
