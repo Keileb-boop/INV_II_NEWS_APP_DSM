@@ -21,3 +21,4 @@ Creamos la app de noticias obteniendo datos de la API NEWS API, encargada de mos
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/652d6b7f-5be4-48d9-aa95-3f4651c4029c" />
 
+<h2>La app está lista para correr desde Android Studio solamente verificar que el gradle esté sincronizado para descargar las dependencias del proyecto</h2>
